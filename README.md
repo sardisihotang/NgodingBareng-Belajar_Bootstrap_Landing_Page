@@ -47,4 +47,4 @@
 
 1. Clone repositori ini / *Clone this repository*:
    ```bash
-   git clone [https://github.com/sardisihotang/nama-repo-ngoding-bareng.git](https://github.com/sardisihotang/nama-repo-ngoding-bareng.git)
+   git clone [https://github.com/sardisihotang/NgodingBareng-Belajar_Bootstrap_Landing_Page.git](https://github.com/sardisihotang/NgodingBareng-Belajar_Bootstrap_Landing_Page.git)
